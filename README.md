@@ -8,11 +8,7 @@
 - [Description](#description)
 - [List of Files](#list-of-files)
 - [APIs](#APIs)
-- [Revision](#revision)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
-- [Sponsors](#sponsors)
-- [Release History](#release-history)
+- [How To Use](#How-To-Use)
 
 # Introduction
 - **Issue Stage**
@@ -312,33 +308,5 @@ This function model RAIV decoder stage
   - Running the tests:
   - There is main function that you can run and edit the input of it.
 
-# Revision:
-|Date |  Name  |                   Description         |
-|:---:|:------:|---------------------------------------|
-| 2022.12.25 |`Updates`| Fixing write after write bug and write data correctly. |
-| 2022.12.26 |`Updates`| Automating Test environment ( reading input file , call function , read output file and compare result). |
-| 2022.12.26 |`Issues` | -- |
-| 2022.12.26 |`TODO`   | -- |
-----
-
-# Contributors:
-  - Designed By: 
-    - Ahmed Hany
-  - Reviewed By:
-    - Mostafa Abdel-Hameed
-    - Hossam Hassan  
-    
-    
-# Acknowledgments:
-bla bla
-
-# Sponsors:
-   [SiliconArts, Inc.](https://www.siliconarts.com/) 
-# Release History:
-* 0.0.1
-    * Work in progress
-
-
-Extras: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
